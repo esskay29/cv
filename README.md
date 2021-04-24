@@ -1,1 +1,3 @@
-# cv
+- 👋 Hi, I’m Shivek Khanna
+- 👀 I’m interested in Coding, tech and cricket.
+- 🌱 I’m currently learning Bootstrap.
